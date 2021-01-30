@@ -12,7 +12,66 @@
 
 
 <body>
+<section class="w3l-bootstrap-header">
+  <nav class="navbar navbar-expand-md navbar-light py-3">
+    <div class="container">
+      <a class="navbar-brand" href="index.html"><img src="assets/images/award.png" class="img-fluid" width="52px">
+        ECARE</a>
+      <!-- if logo is image enable this   
+    <a class="navbar-brand" href="#index.html">
+        <img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
+    </a> -->
+      
 
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            
+          </li>
+          
+        </ul>
+      </div>
+     
+    </div>
+  </nav>
+</section>
+
+
+<!-- Domain Modal -->
+<div class="modal right fade" id="DomainModal" tabindex="-1" role="dialog" aria-labelledby="DomainModalLabel2">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+
+      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+        aria-hidden="true">&times;</span></button>
+
+      <div class="modal-body">
+        <div class="modal__content">
+          <h2 class="logo"><img src="assets/images/award.png" class="img-fluid"> Medpill</h2>
+          <!-- if logo is image enable this   
+          <h2 class="logo">
+            <img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
+          </h2> -->
+          <p class="mt-md-3 mt-2">Lorem ipsum dolor sit amet, elit. Eos expedita ipsam at fugiat ab.</p>
+          <div class="widget-menu-items mt-sm-5 mt-4">
+            <h5 class="widget-title">Menu Items</h5>
+            <nav class="navbar p-0">
+              <ul class="navbar-nav">
+                
+              </ul>
+            </nav>
+          </div>
+          
+
+
+        </div>
+      </div>
+    </div>
+    <!-- //modal-content -->
+  </div>
+  <!-- //modal-dialog -->
+</div>
+<!-- //Domain modal -->
 
 <table class="table table-hover ">
   <thead>
