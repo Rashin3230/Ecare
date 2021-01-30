@@ -1,0 +1,41 @@
+
+
+
+
+
+
+
+<table class="table table-hover ">
+  <thead>
+    <tr>
+      <th scope="col">Type of test</th>
+      <th scope="col">Result</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Sugar panel</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Cholesterol</th>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Liver Function Test</th>
+      <td colspan="2"></td>
+    </tr>
+     <tr>
+      <th scope="row">RFT</th>
+      <td colspan="2"></td>
+    </tr>
+     <tr>
+      <th scope="row">Electrolytes</th>
+      <td colspan="2"></td>
+    </tr>
+     <tr>
+      <th scope="row">Complete blood count</th>
+      <td colspan="2"></td>
+    </tr>
+  </tbody>
+</table>
